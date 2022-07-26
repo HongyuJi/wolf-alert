@@ -1,0 +1,5 @@
+binance~=0.3
+binance-connector
+python-dotenv~=0.20.0
+discord~=1.7.3
+APScheduler~=3.9.1
